@@ -1,0 +1,10 @@
+migen @ git+https://github.com/m-labs/migen.git#egg=migen
+litex @ git+https://github.com/enjoy-digital/litex.git#egg=litex
+litex-boards @ git+https://github.com/litex-hub/litex-boards.git#egg=litex-boards
+litespi @ git+https://github.com/litex-hub/litespi.git#egg=litespi
+pythondata-cpu-vexriscv @ git+https://github.com/litex-hub/pythondata-cpu-vexriscv.git#egg=pythondata-cpu-vexriscv
+pythondata-software-picolibc @ git+https://github.com/litex-hub/pythondata-software-picolibc.git#egg=pythondata-software-picolibc
+pythondata-software-compiler_rt @ git+https://github.com/litex-hub/pythondata-software-compiler_rt.git#egg=pythondata-software-compiler_rt
+Sphinx
+sphinxcontrib-wavedrom
+iCE40_I2C_LiteX_integration @ git+https://github.com/signaloid/iCE40-I2C-LiteX-integration.git#egg=iCE40_I2C_LiteX_integration
