@@ -2,7 +2,7 @@
 This is an example RISC-V SoC implementation with an I2C interface on the Signaloid C0-microSD FPGA that can run C/C++ software.  
 This project offers Makefiles to build and flash the FPGA bitstream, and the firmware binary.
 
-![C0-microSD on the breadboard with the MAX30100 sensor and the OLED display](images/breadboard-example.jpg)
+![C0-microSD on the breadboard with the MAX30100 sensor and the OLED display](images/breadboard-closeup.gif)
 
 ## Gateware
 This example extends the default Signaloid C0-microSD target design from *litex-boards*, and adds an I2C interface.
