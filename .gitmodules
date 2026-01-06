@@ -1,6 +1,8 @@
 [submodule "submodules/C0-microSD-utilities"]
 	path = submodules/C0-microSD-utilities
 	url = ../../signaloid/C0-microSD-utilities.git
+	branch = main
 [submodule "submodules/C0-microSD-litex-integration"]
 	path = submodules/C0-microSD-litex-integration
 	url = ../../signaloid/Signaloid-C0-microSD-litex-integration.git
+	branch = main
